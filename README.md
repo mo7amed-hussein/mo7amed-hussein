@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mo7amed-hussein
-- 👀 I’m interested in c,c++,Qt,QML,Embedded systems , Classical Autosar ,Adaptive Autosar , many other low level stuff 
+- 👀 I’m interested in c, c++, Qt, QML, Embedded systems  Classical Autosar, Adaptive Autosar, many other low level stuff 
 - 🌱 I’m currently learning Adaptive autosar 
 - 💞️ I’m looking to collaborate on any interesting topics 
 - 📫 How to reach me : m.hussein1389@gmail.com
